@@ -1,0 +1,15 @@
+C:\repos\math.trips\Math.Trips.Console\bin\Debug\net7.0\Math.trips.Console.exe
+C:\repos\math.trips\Math.Trips.Console\bin\Debug\net7.0\Math.trips.Console.deps.json
+C:\repos\math.trips\Math.Trips.Console\bin\Debug\net7.0\Math.trips.Console.runtimeconfig.json
+C:\repos\math.trips\Math.Trips.Console\bin\Debug\net7.0\Math.trips.Console.dll
+C:\repos\math.trips\Math.Trips.Console\bin\Debug\net7.0\Math.trips.Console.pdb
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.csproj.AssemblyReference.cache
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.AssemblyInfoInputs.cache
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.AssemblyInfo.cs
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.csproj.CoreCompileInputs.cache
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.dll
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\refint\Math.trips.Console.dll
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.pdb
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\Math.trips.Console.genruntimeconfig.cache
+C:\repos\math.trips\Math.Trips.Console\obj\Debug\net7.0\ref\Math.trips.Console.dll

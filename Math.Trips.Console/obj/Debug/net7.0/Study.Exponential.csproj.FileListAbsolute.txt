@@ -1,0 +1,15 @@
+C:\repos\Study.Exponential\Study.Exponential\bin\Debug\net7.0\Study.Exponential.exe
+C:\repos\Study.Exponential\Study.Exponential\bin\Debug\net7.0\Study.Exponential.deps.json
+C:\repos\Study.Exponential\Study.Exponential\bin\Debug\net7.0\Study.Exponential.runtimeconfig.json
+C:\repos\Study.Exponential\Study.Exponential\bin\Debug\net7.0\Study.Exponential.dll
+C:\repos\Study.Exponential\Study.Exponential\bin\Debug\net7.0\Study.Exponential.pdb
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.csproj.AssemblyReference.cache
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.AssemblyInfoInputs.cache
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.AssemblyInfo.cs
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.csproj.CoreCompileInputs.cache
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.dll
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\refint\Study.Exponential.dll
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.pdb
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\Study.Exponential.genruntimeconfig.cache
+C:\repos\Study.Exponential\Study.Exponential\obj\Debug\net7.0\ref\Study.Exponential.dll
